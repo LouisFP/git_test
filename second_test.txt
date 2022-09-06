@@ -1,2 +1,3 @@
 This is just to test again the basic procedures around Git
 Even more editing but in VSCode this time
+Another edit, this time to understand the process of writing a longer commit message
